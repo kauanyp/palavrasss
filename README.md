@@ -1,2 +1,0 @@
-# palavrasss
-Caça Palavras
